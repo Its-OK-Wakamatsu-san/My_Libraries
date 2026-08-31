@@ -6,10 +6,7 @@ Python , module , method , library ,
 
 
 ## Overview
-It helps to operate an PREVAC TM13/TM14 on Python.
-
-### Function
-Below functions are available, as libraries for PREVAC thickness monitor.
+It helps to operate my Measurement Unit on Python.
 
 #### My Libraies
 1. Advantest R6243

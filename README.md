@@ -6,7 +6,7 @@ Python , module , method , library ,
 
 
 ## Overview
-It helps to operate my Measurement Unit on Python.
+It helps to operate Measurement Unit on Python.
 
 #### My Libraies
 1. Advantest R6243

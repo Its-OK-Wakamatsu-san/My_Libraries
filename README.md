@@ -36,6 +36,4 @@ It helps to operate Measurement Unit on Python.
      
 ### Software Environment
   1. OS: Windows11
-  2. Python: Version 3.9.13
-
-
+  2. Python: Version 3.11.9
